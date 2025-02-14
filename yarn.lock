@@ -93,41 +93,41 @@ argparse@^2.0.1:
   resolved "https://registry.yarnpkg.com/argparse/-/argparse-2.0.1.tgz#246f50f3ca78a3240f6c997e8a9bd1eac49e4b38"
   integrity sha512-8+9WqebbFzpX9OR+Wa6O29asIogeRMzcGtAINdpMHHyAg10f05aSFVBbcEqGf/PXw1EjAZ+q2/bEBg3DvurK3Q==
 
-autocorrect-node-darwin-arm64@2.9.0:
-  version "2.9.0"
-  resolved "https://registry.yarnpkg.com/autocorrect-node-darwin-arm64/-/autocorrect-node-darwin-arm64-2.9.0.tgz#b1c058bfb226f6d25300f9fd3aca0020c8f62243"
-  integrity sha512-lNG5RvydyBWUToJ5dDgGCu1Mmi6uxJsErGNokyiLj0tP0HXsI7Ed+MPnVd2QLWDrSfTIaGr4JyJ0KjVe0TyznA==
+autocorrect-node-darwin-arm64@2.13.0:
+  version "2.13.0"
+  resolved "https://registry.yarnpkg.com/autocorrect-node-darwin-arm64/-/autocorrect-node-darwin-arm64-2.13.0.tgz#e25d8484f759596085f80a95a151c15970b4d624"
+  integrity sha512-3B47P+COHXmp4mRkwhRGk+WoyNDdX5TZOFitq9aTUgs5VUqV99aFFOLAakDSlizosjnt+ov2VtOOd1yMo37/Bw==
 
-autocorrect-node-darwin-x64@2.9.0:
-  version "2.9.0"
-  resolved "https://registry.yarnpkg.com/autocorrect-node-darwin-x64/-/autocorrect-node-darwin-x64-2.9.0.tgz#6399885701ec8ca7e22d7a06da4c33b0a7580334"
-  integrity sha512-giOy9nHnReU5pJH44jI1grPSdtyv0jhVt/UqKpnW3XaH8kss2CvF1BzW0/BAD6FbUOlh7S1JjrfTD4bWkqR1ZA==
+autocorrect-node-darwin-x64@2.13.0:
+  version "2.13.0"
+  resolved "https://registry.yarnpkg.com/autocorrect-node-darwin-x64/-/autocorrect-node-darwin-x64-2.13.0.tgz#f77b12c6c60807bdc5d96aaa352a199dfd80de24"
+  integrity sha512-IUFp8/LeEmd08+rd6L84C0pQyeAmrd4fufEguFKXkrKTKn0svMj+NHNXA6OLWIriYHB3mjUMx1pMay4yp01zqA==
 
-autocorrect-node-linux-x64-gnu@2.9.0:
-  version "2.9.0"
-  resolved "https://registry.yarnpkg.com/autocorrect-node-linux-x64-gnu/-/autocorrect-node-linux-x64-gnu-2.9.0.tgz#55af46b851ba5f29e77796acc31ae88a74eaeac9"
-  integrity sha512-KMAwr4TM04HYQN0+fSVaxJ/+o+msrluSOKwI79wYnIukrSQSBLbVthVowsP6coUHi9A9Jq8fHhlAFdOQPVKGUA==
+autocorrect-node-linux-x64-gnu@2.13.0:
+  version "2.13.0"
+  resolved "https://registry.yarnpkg.com/autocorrect-node-linux-x64-gnu/-/autocorrect-node-linux-x64-gnu-2.13.0.tgz#2e31a30b38e98c8364cee8c7edccd7fc2c83ad11"
+  integrity sha512-66yn5IMGrlejJZz0GVmFlTx5KZMlpFeFIwpwBa5TrW9s1n1zp5yuMQPcw/tQ5eP/tl9N1H+kJGQLTpcuguoNJQ==
 
-autocorrect-node-linux-x64-musl@2.9.0:
-  version "2.9.0"
-  resolved "https://registry.yarnpkg.com/autocorrect-node-linux-x64-musl/-/autocorrect-node-linux-x64-musl-2.9.0.tgz#ffbea51cda8d3c3d49cfca41f8ce20eb2f78f9e6"
-  integrity sha512-Uly0OHk2ZSriClKNh6QEFI0CP9Uf8rUX0EFBNoPONwZtLWfvuthFZPb+9WJMW5H4+yRMU8T/p8yMM1iSnNgi9g==
+autocorrect-node-linux-x64-musl@2.13.0:
+  version "2.13.0"
+  resolved "https://registry.yarnpkg.com/autocorrect-node-linux-x64-musl/-/autocorrect-node-linux-x64-musl-2.13.0.tgz#4aed2030532180fef0d1e6a63d3bf039240d49aa"
+  integrity sha512-Z+S7oiU/rolDOLupj7Ou1LDLgXjur03YedZ0yQfyLxzVO+b5Q1087jkJp/zAkwknqb3ZfhxLZRHe78OMYLPhOg==
 
-autocorrect-node-win32-x64-msvc@2.9.0:
-  version "2.9.0"
-  resolved "https://registry.yarnpkg.com/autocorrect-node-win32-x64-msvc/-/autocorrect-node-win32-x64-msvc-2.9.0.tgz#081857f163f53ddbfff7ec9c5e14c59eef554f12"
-  integrity sha512-MKJxmoDMZzOq6OEvqcDV/2WnQ0KWBvqtWm7l0o0MBNG5PqTlV2wqHtmCk6gfLGLV0oNT9A30WsgYfGyEeNJ0wg==
+autocorrect-node-win32-x64-msvc@2.13.0:
+  version "2.13.0"
+  resolved "https://registry.yarnpkg.com/autocorrect-node-win32-x64-msvc/-/autocorrect-node-win32-x64-msvc-2.13.0.tgz#149450ebcf4a19f418744c3bd5c48ac0532121e1"
+  integrity sha512-eZr8zhLQSggRAAzHVg2sm0D/bFAUyxwS0cBf/UkJUML+YdHGAi3mvSsEsBMDT/oA6eWfOjf9HAa6RzKON3u+LQ==
 
-autocorrect-node@2.9.0:
-  version "2.9.0"
-  resolved "https://registry.yarnpkg.com/autocorrect-node/-/autocorrect-node-2.9.0.tgz#4f89ff98bd5ad7cbcc4d2639ff73e9e3aeaa0d6b"
-  integrity sha512-a5/llf9KoBJg2H7dj1iCYbo/uYYiYm4Shr9zMMFrvsPS3LTMVDwfvUmpGhlod2F8AChaFpHS5OirFMd8Fxw+ag==
+autocorrect-node@2.13.0:
+  version "2.13.0"
+  resolved "https://registry.yarnpkg.com/autocorrect-node/-/autocorrect-node-2.13.0.tgz#068aa373fa9e48cc35e87a44dee0cfb43a428fe8"
+  integrity sha512-jZOVp3JA1YEd/YX0u33XuOG5t4C7QAKkxo+V/f2BEEHvTRxDLFBnVeDewcdOI+Kw8xb1Dfm+rgOuVYpE7tbcGw==
   optionalDependencies:
-    autocorrect-node-darwin-arm64 "2.9.0"
-    autocorrect-node-darwin-x64 "2.9.0"
-    autocorrect-node-linux-x64-gnu "2.9.0"
-    autocorrect-node-linux-x64-musl "2.9.0"
-    autocorrect-node-win32-x64-msvc "2.9.0"
+    autocorrect-node-darwin-arm64 "2.13.0"
+    autocorrect-node-darwin-x64 "2.13.0"
+    autocorrect-node-linux-x64-gnu "2.13.0"
+    autocorrect-node-linux-x64-musl "2.13.0"
+    autocorrect-node-win32-x64-msvc "2.13.0"
 
 balanced-match@^1.0.0:
   version "1.0.2"
